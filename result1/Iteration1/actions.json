@@ -1,0 +1,15 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "TR01",
+                "rawStartTime": 1622736358925,
+                "rawEndTime": 1622736363958,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]
